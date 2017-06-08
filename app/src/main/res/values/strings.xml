@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ServiceLocation</string>
+    <string name="request_not_granted">Request Not granted</string>
+</resources>
